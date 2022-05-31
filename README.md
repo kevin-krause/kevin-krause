@@ -1,11 +1,10 @@
-### Hi there 👋
+## Olá eu sou Kevin, como posso te ajudar hoje?
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando Typescript
 - 💬 Posso te ajudar com Python
 - 📫 Contate-me em: contatokevinkrause@gmail.com
 
-## Olá eu sou Kevin, como posso te ajudar hoje?
 <div align="center">
   <a href="https://github.com/kevin-krause">
   <img height="180em" src="https://github-readme-stats-defcon27.vercel.app/api?username=kevin-krause&show_icons=true&line_height=21&theme=react"/>
