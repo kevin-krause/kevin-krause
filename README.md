@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/kevin-krause">
-  <img height="180em" src="https://github-readme-stats-defcon27.vercel.app/api?username=kevin-krause&show_icons=true&line_height=21&theme=react"/>
-  <img height="180em" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=kevin-krause&langs_count=6&hide=handlebars,css&theme=react&line_height=27&layout=compact"/>
+  <img display= flex height="180em" src="https://github-readme-stats-defcon27.vercel.app/api?username=kevin-krause&show_icons=true&line_height=21&theme=react"/>
+  <img display= flex height="180em" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=kevin-krause&langs_count=6&hide=handlebars,css&theme=react&line_height=27&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
