@@ -16,6 +16,7 @@
   Currently working on Typscript, ReactJS, NextJS and Python projects
   <br>
   <br>
+  contatokevinkrause@gmail.com
   Contact me and I'll be happy to help you 😊💙
   <br>
 </div>
